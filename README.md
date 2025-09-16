@@ -9,7 +9,7 @@ A Python module for a conversational AI chatbot with Text-to-Speech (TTS) capabi
 - Chat with an AI assistant powered by OpenAI GPT model.
 - Generate speech audio responses with OpenAI TTS model.
 - Play audio responses locally.
-- Maintains conversation history.
+- Maintains conversation history. 
 
 ---
 
